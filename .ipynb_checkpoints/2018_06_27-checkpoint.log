@@ -1,0 +1,214 @@
+2020-05-15 17:51:47,081 - root - INFO - 
+
+ - RECORD - 2018_06_27_12_39_39
+
+2020-05-15 17:51:47,082 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_39_39
+2020-05-15 17:51:47,084 - posarmctools.posar.Record - INFO - 342 records found in directory, start = record0.bin, stop = record682.bin
+2020-05-15 17:51:47,084 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:51:49,201 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_39_39/record0.bin
+2020-05-15 17:51:49,202 - root - INFO - UTC access _____ 2019 2 14 7:22:29
+2020-05-15 17:51:49,202 - root - INFO - UTC creation ___ 2018 6 28 14:36:54
+2020-05-15 17:51:49,202 - root - INFO - UTC modification 2018 6 27 10:39:40 + 0.761
+2020-05-15 17:51:49,202 - posarmctools.posar.Record - INFO - delta = 7198.239, estimated UTCShift = 2
+2020-05-15 17:51:49,202 - root - INFO - delta between name and modification time = -1.761 s
+2020-05-15 17:51:49,213 - posarmctools.posar.Timestamps - INFO - 2018_06_27_12_39_39 number of timestamps: 347
+2020-05-15 17:51:49,213 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_39_39 *** buffers are not contiguous
+2020-05-15 17:51:49,214 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_39_39 *** BUT bufferNumber[341 342 343 344 345] == 4294967295
+2020-05-15 17:51:49,214 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_12_39_39 *** timestamps are not contiguous
+2020-05-15 17:51:49,215 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_12_39_39 *** diffTimestamp[0] = [54075.]
+2020-05-15 17:51:49,215 - root - INFO - 
+
+ - RECORD - 2018_06_27_12_45_51
+
+2020-05-15 17:51:49,217 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_45_51
+2020-05-15 17:51:49,218 - posarmctools.posar.Record - INFO - 391 records found in directory, start = record0.bin, stop = record780.bin
+2020-05-15 17:51:49,219 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:51:51,644 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_45_51/record0.bin
+2020-05-15 17:51:51,645 - root - INFO - UTC access _____ 2018 9 6 6:49:12
+2020-05-15 17:51:51,645 - root - INFO - UTC creation ___ 2018 6 28 14:37:28
+2020-05-15 17:51:51,645 - root - INFO - UTC modification 2018 6 27 10:45:52 + 0.862
+2020-05-15 17:51:51,645 - posarmctools.posar.Record - INFO - delta = 7198.138, estimated UTCShift = 2
+2020-05-15 17:51:51,645 - root - INFO - delta between name and modification time = -1.862 s
+2020-05-15 17:51:51,656 - posarmctools.posar.Timestamps - INFO - 2018_06_27_12_45_51 number of timestamps: 396
+2020-05-15 17:51:51,657 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_45_51 *** buffers are not contiguous
+2020-05-15 17:51:51,657 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_45_51 *** BUT bufferNumber[390 391 392 393 394] == 4294967295
+2020-05-15 17:51:51,657 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:51:51,658 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900004.0 mean 900002.537 std 0.523
+2020-05-15 17:51:51,658 - root - INFO - 
+
+ - RECORD - 2018_06_27_12_52_49
+
+2020-05-15 17:51:51,660 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_52_49
+2020-05-15 17:51:51,661 - posarmctools.posar.Record - INFO - 329 records found in directory, start = record0.bin, stop = record656.bin
+2020-05-15 17:51:51,661 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:51:53,704 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_52_49/record0.bin
+2020-05-15 17:51:53,705 - root - INFO - UTC access _____ 2018 9 5 11:23:33
+2020-05-15 17:51:53,705 - root - INFO - UTC creation ___ 2018 6 28 14:38:7
+2020-05-15 17:51:53,705 - root - INFO - UTC modification 2018 6 27 10:52:50 + 0.820
+2020-05-15 17:51:53,705 - posarmctools.posar.Record - INFO - delta = 7198.180, estimated UTCShift = 2
+2020-05-15 17:51:53,705 - root - INFO - delta between name and modification time = -1.820 s
+2020-05-15 17:51:53,715 - posarmctools.posar.Timestamps - INFO - 2018_06_27_12_52_49 number of timestamps: 332
+2020-05-15 17:51:53,716 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_52_49 *** buffers are not contiguous
+2020-05-15 17:51:53,716 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_52_49 *** BUT bufferNumber[328 329 330] == 4294967295
+2020-05-15 17:51:53,716 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:51:53,716 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900005.0 mean 900002.538 std 0.618
+2020-05-15 17:51:53,717 - root - INFO - 
+
+ - RECORD - 2018_06_27_12_59_03
+
+2020-05-15 17:51:53,717 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_59_03
+2020-05-15 17:51:53,719 - posarmctools.posar.Record - INFO - 369 records found in directory, start = record0.bin, stop = record736.bin
+2020-05-15 17:51:53,719 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:51:56,030 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_12_59_03/record0.bin
+2020-05-15 17:51:56,030 - root - INFO - UTC access _____ 2018 10 11 8:2:31
+2020-05-15 17:51:56,031 - root - INFO - UTC creation ___ 2018 6 28 14:38:40
+2020-05-15 17:51:56,031 - root - INFO - UTC modification 2018 6 27 10:59:4 + 0.518
+2020-05-15 17:51:56,031 - posarmctools.posar.Record - INFO - delta = 7198.482, estimated UTCShift = 2
+2020-05-15 17:51:56,031 - root - INFO - delta between name and modification time = -1.518 s
+2020-05-15 17:51:56,041 - posarmctools.posar.Timestamps - INFO - 2018_06_27_12_59_03 number of timestamps: 372
+2020-05-15 17:51:56,042 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_59_03 *** buffers are not contiguous
+2020-05-15 17:51:56,042 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_12_59_03 *** BUT bufferNumber[368 369 370] == 4294967295
+2020-05-15 17:51:56,042 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:51:56,043 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900004.0 mean 900002.534 std 0.540
+2020-05-15 17:51:56,043 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_05_40
+
+2020-05-15 17:51:56,043 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_05_40
+2020-05-15 17:51:56,045 - posarmctools.posar.Record - INFO - 321 records found in directory, start = record0.bin, stop = record640.bin
+2020-05-15 17:51:56,045 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:51:58,065 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_05_40/record0.bin
+2020-05-15 17:51:58,066 - root - INFO - UTC access _____ 2018 8 28 14:36:36
+2020-05-15 17:51:58,066 - root - INFO - UTC creation ___ 2018 6 28 14:39:17
+2020-05-15 17:51:58,066 - root - INFO - UTC modification 2018 6 27 11:5:41 + 0.260
+2020-05-15 17:51:58,066 - posarmctools.posar.Record - INFO - delta = 7198.740, estimated UTCShift = 2
+2020-05-15 17:51:58,066 - root - INFO - delta between name and modification time = -1.260 s
+2020-05-15 17:51:58,076 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_05_40 number of timestamps: 326
+2020-05-15 17:51:58,076 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_05_40 *** buffers are not contiguous
+2020-05-15 17:51:58,077 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_05_40 *** BUT bufferNumber[320 321 322 323 324] == 4294967295
+2020-05-15 17:51:58,077 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_05_40 *** timestamps are not contiguous
+2020-05-15 17:51:58,078 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_05_40 *** diffTimestamp[0] = [54595.]
+2020-05-15 17:51:58,078 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_11_42
+
+2020-05-15 17:51:58,079 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_11_42
+2020-05-15 17:51:58,081 - posarmctools.posar.Record - INFO - 376 records found in directory, start = record0.bin, stop = record750.bin
+2020-05-15 17:51:58,081 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:00,462 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_11_42/record0.bin
+2020-05-15 17:52:00,462 - root - INFO - UTC access _____ 2018 9 9 18:46:15
+2020-05-15 17:52:00,463 - root - INFO - UTC creation ___ 2018 6 28 14:39:50
+2020-05-15 17:52:00,463 - root - INFO - UTC modification 2018 6 27 11:11:43 + 0.685
+2020-05-15 17:52:00,463 - posarmctools.posar.Record - INFO - delta = 7198.315, estimated UTCShift = 2
+2020-05-15 17:52:00,463 - root - INFO - delta between name and modification time = -1.685 s
+2020-05-15 17:52:00,474 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_11_42 number of timestamps: 378
+2020-05-15 17:52:00,474 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_11_42 *** buffers are not contiguous
+2020-05-15 17:52:00,475 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_11_42 *** BUT bufferNumber[375 376] == 4294967295
+2020-05-15 17:52:00,475 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:52:00,475 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900004.0 mean 900002.533 std 0.540
+2020-05-15 17:52:00,476 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_18_13
+
+2020-05-15 17:52:00,477 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_18_13
+2020-05-15 17:52:00,479 - posarmctools.posar.Record - INFO - 325 records found in directory, start = record0.bin, stop = record648.bin
+2020-05-15 17:52:00,479 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:02,546 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_18_13/record0.bin
+2020-05-15 17:52:02,547 - root - INFO - UTC access _____ 2018 9 3 11:14:30
+2020-05-15 17:52:02,547 - root - INFO - UTC creation ___ 2018 6 28 14:42:42
+2020-05-15 17:52:02,547 - root - INFO - UTC modification 2018 6 27 11:18:14 + 0.371
+2020-05-15 17:52:02,547 - posarmctools.posar.Record - INFO - delta = 7198.629, estimated UTCShift = 2
+2020-05-15 17:52:02,547 - root - INFO - delta between name and modification time = -1.371 s
+2020-05-15 17:52:02,557 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_18_13 number of timestamps: 329
+2020-05-15 17:52:02,558 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_18_13 *** buffers are not contiguous
+2020-05-15 17:52:02,558 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_18_13 *** BUT bufferNumber[324 325 326 327] == 4294967295
+2020-05-15 17:52:02,558 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:52:02,559 - posarmctools.posar.Timestamps - INFO - min 900000.0 max 900005.0 mean 900002.534 std 0.728
+2020-05-15 17:52:02,559 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_24_11
+
+2020-05-15 17:52:02,559 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_24_11
+2020-05-15 17:52:02,561 - posarmctools.posar.Record - INFO - 373 records found in directory, start = record0.bin, stop = record744.bin
+2020-05-15 17:52:02,561 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:04,979 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_24_11/record0.bin
+2020-05-15 17:52:04,979 - root - INFO - UTC access _____ 2018 9 10 6:34:28
+2020-05-15 17:52:04,980 - root - INFO - UTC creation ___ 2018 6 28 14:42:56
+2020-05-15 17:52:04,980 - root - INFO - UTC modification 2018 6 27 11:24:12 + 0.660
+2020-05-15 17:52:04,980 - posarmctools.posar.Record - INFO - delta = 7198.340, estimated UTCShift = 2
+2020-05-15 17:52:04,980 - root - INFO - delta between name and modification time = -1.660 s
+2020-05-15 17:52:04,992 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_24_11 number of timestamps: 378
+2020-05-15 17:52:04,992 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_24_11 *** buffers are not contiguous
+2020-05-15 17:52:04,993 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_24_11 *** BUT bufferNumber[372 373 374 375 376] == 4294967295
+2020-05-15 17:52:04,993 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:52:04,993 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900004.0 mean 900002.536 std 0.540
+2020-05-15 17:52:04,994 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_30_53
+
+2020-05-15 17:52:04,994 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_30_53
+2020-05-15 17:52:04,996 - posarmctools.posar.Record - INFO - 329 records found in directory, start = record0.bin, stop = record656.bin
+2020-05-15 17:52:04,996 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:07,170 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_30_53/record0.bin
+2020-05-15 17:52:07,171 - root - INFO - UTC access _____ 2018 9 7 6:22:8
+2020-05-15 17:52:07,171 - root - INFO - UTC creation ___ 2018 6 28 14:43:12
+2020-05-15 17:52:07,171 - root - INFO - UTC modification 2018 6 27 11:30:56 + 0.289
+2020-05-15 17:52:07,171 - posarmctools.posar.Record - INFO - delta = 7196.711, estimated UTCShift = 2
+2020-05-15 17:52:07,171 - root - INFO - delta between name and modification time = -3.289 s
+2020-05-15 17:52:07,182 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_30_53 number of timestamps: 329
+2020-05-15 17:52:07,183 - posarmctools.posar.Timestamps - INFO - buffers are contiguous
+2020-05-15 17:52:07,183 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:52:07,183 - posarmctools.posar.Timestamps - INFO - min 899999.0 max 900006.0 mean 900002.537 std 0.933
+2020-05-15 17:52:07,184 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_36_46
+
+2020-05-15 17:52:07,185 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_36_46
+2020-05-15 17:52:07,187 - posarmctools.posar.Record - INFO - 372 records found in directory, start = record0.bin, stop = record742.bin
+2020-05-15 17:52:07,187 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:09,592 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_36_46/record0.bin
+2020-05-15 17:52:09,593 - root - INFO - UTC access _____ 2018 9 10 11:27:20
+2020-05-15 17:52:09,593 - root - INFO - UTC creation ___ 2018 6 28 14:43:36
+2020-05-15 17:52:09,593 - root - INFO - UTC modification 2018 6 27 11:36:47 + 0.004
+2020-05-15 17:52:09,593 - posarmctools.posar.Record - INFO - delta = 7198.996, estimated UTCShift = 2
+2020-05-15 17:52:09,593 - root - INFO - delta between name and modification time = -1.004 s
+2020-05-15 17:52:09,605 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_36_46 number of timestamps: 373
+2020-05-15 17:52:09,605 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_36_46 *** buffers are not contiguous
+2020-05-15 17:52:09,606 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_36_46 *** BUT bufferNumber[371] == 4294967295
+2020-05-15 17:52:09,606 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-05-15 17:52:09,606 - posarmctools.posar.Timestamps - INFO - min 900001.0 max 900004.0 mean 900002.540 std 0.559
+2020-05-15 17:52:09,606 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_43_13
+
+2020-05-15 17:52:09,607 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_43_13
+2020-05-15 17:52:09,609 - posarmctools.posar.Record - INFO - 324 records found in directory, start = record0.bin, stop = record646.bin
+2020-05-15 17:52:09,609 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:11,712 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_43_13/record0.bin
+2020-05-15 17:52:11,713 - root - INFO - UTC access _____ 2018 9 7 11:43:11
+2020-05-15 17:52:11,713 - root - INFO - UTC creation ___ 2018 6 28 14:44:13
+2020-05-15 17:52:11,713 - root - INFO - UTC modification 2018 6 27 11:43:14 + 0.056
+2020-05-15 17:52:11,713 - posarmctools.posar.Record - INFO - delta = 7198.944, estimated UTCShift = 2
+2020-05-15 17:52:11,713 - root - INFO - delta between name and modification time = -1.056 s
+2020-05-15 17:52:11,724 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_43_13 number of timestamps: 326
+2020-05-15 17:52:11,725 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_43_13 *** buffers are not contiguous
+2020-05-15 17:52:11,725 - posarmctools.posar.Timestamps - WARNING - 2018_06_27_13_43_13 *** BUT bufferNumber[323 324] == 4294967295
+2020-05-15 17:52:11,725 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_43_13 *** timestamps are not contiguous
+2020-05-15 17:52:11,726 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_43_13 *** diffTimestamp[0] = [53997.]
+2020-05-15 17:52:11,726 - root - INFO - 
+
+ - RECORD - 2018_06_27_13_49_07
+
+2020-05-15 17:52:11,728 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_49_07
+2020-05-15 17:52:11,730 - posarmctools.posar.Record - INFO - 379 records found in directory, start = record0.bin, stop = record756.bin
+2020-05-15 17:52:11,730 - posarmctools.posar.Record - INFO - records are contiguous
+2020-05-15 17:52:14,197 - root - INFO - /home/pleroy/DATA/PoSAR-C/2018_06_27_LETG/2018_06_27/jde/2018_06_27_13_49_07/record0.bin
+2020-05-15 17:52:14,197 - root - INFO - UTC access _____ 2018 9 11 6:37:0
+2020-05-15 17:52:14,197 - root - INFO - UTC creation ___ 2018 6 28 14:44:47
+2020-05-15 17:52:14,197 - root - INFO - UTC modification 2018 6 27 11:49:8 + 0.578
+2020-05-15 17:52:14,197 - posarmctools.posar.Record - INFO - delta = 7198.422, estimated UTCShift = 2
+2020-05-15 17:52:14,197 - root - INFO - delta between name and modification time = -1.578 s
+2020-05-15 17:52:14,208 - posarmctools.posar.Timestamps - INFO - 2018_06_27_13_49_07 number of timestamps: 379
+2020-05-15 17:52:14,208 - posarmctools.posar.Timestamps - INFO - buffers are contiguous
+2020-05-15 17:52:14,209 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_49_07 *** timestamps are not contiguous
+2020-05-15 17:52:14,209 - posarmctools.posar.Timestamps - ERROR - 2018_06_27_13_49_07 *** diffTimestamp[23] = [-4.29406729e+09]

@@ -1,0 +1,96 @@
+2020-07-08 12:55:40,859 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2020_06_25_11_57_59
+
+2020-07-08 12:55:40,860 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-07-08 12:55:40,860 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-07-08 12:55:40,861 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-07-08 12:55:40,861 - posarmctools.posar.Record - INFO - records are contiguous
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-07-08 12:55:40,949 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-07-08 12:55:40,953 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-07-08 12:55:40,953 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-07-08 12:55:40,953 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-07-08 12:55:40,953 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-07-08 12:55:40,954 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-07-08 12:55:40,955 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2020_06_25_12_01_28
+
+2020-07-08 12:55:40,956 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_12_01_28 created successfully
+2020-07-08 12:55:40,956 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_01_28
+2020-07-08 12:55:40,956 - posarmctools.posar.Record - INFO - 56 records found in directory, start = record0.bin, stop = record110.bin
+2020-07-08 12:55:40,956 - posarmctools.posar.Record - INFO - records are contiguous
+2020-07-08 12:55:41,039 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_01_28/record0.bin
+2020-07-08 12:55:41,040 - posarmctools.posar.Record - INFO - UTC access _____ 2020 6 26 7:0:23
+2020-07-08 12:55:41,040 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:0:23
+2020-07-08 12:55:41,040 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 10:1:32 + 0.960
+2020-07-08 12:55:41,040 - posarmctools.posar.Record - INFO - delta = 7195.040, estimated UTCShift = 2
+2020-07-08 12:55:41,040 - posarmctools.posar.Record - INFO - delta between name and modification time = -4.960 s
+2020-07-08 12:55:41,043 - posarmctools.posar.Timestamps - INFO - 2020_06_25_12_01_28 number of timestamps: 56
+2020-07-08 12:55:41,043 - posarmctools.posar.Timestamps - INFO - buffers are contiguous
+2020-07-08 12:55:41,043 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-07-08 12:55:41,043 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.145 std 0.401
+2020-07-08 12:55:41,066 - posarmctools.posar.Record - INFO - 2020_06_25_12_01_28 number of added events 1
+2020-07-08 12:55:41,067 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2020_06_25_12_04_34
+
+2020-07-08 12:55:41,067 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_12_04_34 created successfully
+2020-07-08 12:55:41,068 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_04_34
+2020-07-08 12:55:41,068 - posarmctools.posar.Record - INFO - 36 records found in directory, start = record0.bin, stop = record70.bin
+2020-07-08 12:55:41,068 - posarmctools.posar.Record - INFO - records are contiguous
+2020-07-08 12:55:41,124 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_04_34/record0.bin
+2020-07-08 12:55:41,125 - posarmctools.posar.Record - INFO - UTC access _____ 2020 6 26 6:59:49
+2020-07-08 12:55:41,125 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 6:59:49
+2020-07-08 12:55:41,125 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 10:4:38 + 0.844
+2020-07-08 12:55:41,125 - posarmctools.posar.Record - INFO - delta = 7195.156, estimated UTCShift = 2
+2020-07-08 12:55:41,125 - posarmctools.posar.Record - INFO - delta between name and modification time = -4.844 s
+2020-07-08 12:55:41,127 - posarmctools.posar.Timestamps - INFO - 2020_06_25_12_04_34 number of timestamps: 37
+2020-07-08 12:55:41,128 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_12_04_34 *** buffers are not contiguous
+2020-07-08 12:55:41,128 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_12_04_34 *** BUT bufferNumber[35] == 4294967295
+2020-07-08 12:55:41,128 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-07-08 12:55:41,128 - posarmctools.posar.Timestamps - INFO - min 1000005.0 max 1000006.0 mean 1000005.167 std 0.373
+2020-07-08 12:55:41,140 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2020_06_25_12_07_40
+
+2020-07-08 12:55:41,140 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_12_07_40 created successfully
+2020-07-08 12:55:41,140 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_07_40
+2020-07-08 12:55:41,141 - posarmctools.posar.Record - INFO - 53 records found in directory, start = record0.bin, stop = record104.bin
+2020-07-08 12:55:41,141 - posarmctools.posar.Record - INFO - records are contiguous
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_07_40/record0.bin
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - UTC access _____ 2020 6 26 6:58:58
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 6:58:58
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 10:7:47 + 0.332
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - delta = 7192.668, estimated UTCShift = 2
+2020-07-08 12:55:41,221 - posarmctools.posar.Record - INFO - delta between name and modification time = -7.332 s
+2020-07-08 12:55:41,224 - posarmctools.posar.Timestamps - INFO - 2020_06_25_12_07_40 number of timestamps: 53
+2020-07-08 12:55:41,224 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_12_07_40 *** buffers are not contiguous
+2020-07-08 12:55:41,224 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_12_07_40 *** BUT bufferNumber[51] == 4294967295
+2020-07-08 12:55:41,225 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-07-08 12:55:41,225 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.135 std 0.556
+2020-07-08 12:55:41,236 - posarmctools.posar.Record - INFO - 2020_06_25_12_07_40 number of added events 1
+2020-07-08 12:55:41,237 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2020_06_25_12_11_37
+
+2020-07-08 12:55:41,238 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_12_11_37 created successfully
+2020-07-08 12:55:41,238 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_11_37
+2020-07-08 12:55:41,238 - posarmctools.posar.Record - INFO - 54 records found in directory, start = record0.bin, stop = record106.bin
+2020-07-08 12:55:41,238 - posarmctools.posar.Record - INFO - records are contiguous
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_12_11_37/record0.bin
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - UTC access _____ 2020 6 26 6:58:1
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 6:58:1
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 10:11:44 + 0.141
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - delta = 7192.859, estimated UTCShift = 2
+2020-07-08 12:55:41,320 - posarmctools.posar.Record - INFO - delta between name and modification time = -7.141 s
+2020-07-08 12:55:41,338 - posarmctools.posar.Timestamps - INFO - 2020_06_25_12_11_37 number of timestamps: 54
+2020-07-08 12:55:41,338 - posarmctools.posar.Timestamps - INFO - buffers are contiguous
+2020-07-08 12:55:41,338 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-07-08 12:55:41,339 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.132 std 0.477
+2020-07-08 12:55:41,354 - posarmctools.posar.Record - INFO - 2020_06_25_12_11_37 number of added events 1
