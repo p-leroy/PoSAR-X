@@ -1,243 +1,181 @@
-2020-07-08 12:53:22,420 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 12:53:22,420 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 12:53:22,420 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:35:07,281 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 08:35:07,281 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 08:35:07,281 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 12:53:22,421 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 12:53:22,421 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 12:53:22,421 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 12:53:22,422 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 12:53:22,424 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 12:53:22,424 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 12:53:22,424 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 12:53:22,425 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 12:53:22,425 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 12:53:22,425 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 12:53:22,426 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 12:53:22,426 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 12:53:22,426 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 12:53:22,427 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 12:53:22,427 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 12:53:22,430 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 12:53:22,430 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 12:53:23,950 - backprojection.Conf - INFO - nav 1
-2020-07-08 12:53:23,952 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 12:53:23,954 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 12:53:41,411 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 12:54:20,390 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 12:54:20,390 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 12:54:20,391 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:35:07,282 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 08:35:07,282 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 08:35:07,282 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 08:35:07,288 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 08:35:07,290 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 08:35:07,343 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 08:35:07,343 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 08:35:07,344 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 08:35:07,344 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 08:35:07,344 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 08:35:07,366 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 08:35:07,367 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 08:35:08,922 - backprojection.Conf - INFO - nav 1
+2020-09-08 08:35:08,923 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 08:35:08,938 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_hanning.npy
+2020-09-08 08:35:43,367 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
+2020-09-08 08:35:54,333 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 08:35:54,333 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 08:35:54,334 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 12:54:20,391 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 12:54:20,391 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 12:54:20,391 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 12:54:20,392 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 12:54:20,394 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 12:54:20,395 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 12:54:20,395 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 12:54:20,396 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 12:54:20,396 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 12:54:20,396 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 12:54:20,398 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 12:54:20,398 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 12:54:21,929 - backprojection.Conf - INFO - nav 1
-2020-07-08 12:54:21,930 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 12:54:21,933 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 12:54:52,158 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 14:05:34,548 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 14:05:34,548 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 14:05:34,549 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:35:54,334 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 08:35:54,334 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 08:35:54,335 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 08:35:54,335 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 08:35:54,338 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 08:35:54,339 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 08:35:54,339 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 08:35:54,340 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 08:35:54,340 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 08:35:54,340 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 08:35:54,343 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 08:35:54,343 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 08:35:55,800 - backprojection.Conf - INFO - nav 1
+2020-09-08 08:35:55,801 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 08:37:39,011 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 08:37:39,011 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 08:37:39,012 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 14:05:34,549 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 14:05:34,550 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 14:05:34,550 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 14:05:34,550 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 14:05:34,553 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 14:05:34,554 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 14:05:34,554 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 14:05:34,555 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 14:05:34,555 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 14:05:34,555 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 14:05:34,558 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 14:05:34,558 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 14:05:36,127 - backprojection.Conf - INFO - nav 1
-2020-07-08 14:05:36,129 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 14:05:36,130 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 14:05:50,290 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 14:41:03,456 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 14:41:03,456 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 14:41:03,456 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:37:39,012 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 08:37:39,012 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 08:37:39,013 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 08:37:39,013 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 08:37:39,015 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 08:37:39,015 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 08:37:39,015 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 08:37:39,015 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 08:37:39,016 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 08:37:39,016 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 08:37:39,017 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 08:37:39,017 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 08:37:39,018 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 08:37:39,018 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 08:37:39,018 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 08:37:39,020 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 08:37:39,020 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 08:37:40,471 - backprojection.Conf - INFO - nav 1
+2020-09-08 08:37:40,472 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 08:37:40,475 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
+2020-09-08 08:38:15,280 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
+2020-09-08 08:41:12,501 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 08:41:12,501 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 08:41:12,502 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 14:41:03,457 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 14:41:03,457 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 14:41:03,457 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 14:41:03,457 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 14:41:03,460 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 14:41:03,461 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 14:41:03,462 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 14:41:03,462 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 14:41:03,462 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 14:41:03,462 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 14:41:03,464 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 14:41:03,465 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 14:41:05,060 - backprojection.Conf - INFO - nav 1
-2020-07-08 14:41:05,061 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 14:41:05,063 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 14:41:18,396 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 14:56:06,868 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 14:56:06,869 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 14:56:06,869 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:41:12,502 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 08:41:12,502 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 08:41:12,503 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 08:41:12,503 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 08:41:12,505 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 08:41:12,507 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 08:41:12,507 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 08:41:12,507 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 08:41:12,507 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 08:41:12,508 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 08:41:12,511 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 08:41:12,511 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 08:41:14,067 - backprojection.Conf - INFO - nav 1
+2020-09-08 08:41:14,069 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 08:51:18,366 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 08:51:18,367 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 08:51:18,367 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 14:56:06,869 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 14:56:06,870 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 14:56:06,870 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 14:56:06,870 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 14:56:06,872 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 14:56:06,872 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 14:56:06,872 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 14:56:06,873 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 14:56:06,873 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 14:56:06,873 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 14:56:06,874 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 14:56:06,874 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 14:56:06,875 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 14:56:06,875 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 14:56:06,875 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 14:56:06,877 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 14:56:06,877 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 14:56:08,485 - backprojection.Conf - INFO - nav 1
-2020-07-08 14:56:08,487 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 14:56:08,490 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 14:56:22,062 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 15:18:38,848 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 15:18:38,848 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 15:18:38,849 - posarmctools.posar.Record - INFO - 
+2020-09-08 08:51:18,368 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 08:51:18,368 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 08:51:18,368 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 08:51:18,369 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 08:51:18,371 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 08:51:18,373 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 08:51:18,373 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 08:51:18,373 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 08:51:18,373 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 08:51:18,374 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 08:51:18,376 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 08:51:18,376 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 08:51:19,809 - backprojection.Conf - INFO - nav 1
+2020-09-08 08:51:19,811 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 09:17:11,906 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 09:17:11,906 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 09:17:11,906 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 15:18:38,849 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 15:18:38,849 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 15:18:38,850 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 15:18:38,850 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 15:18:38,853 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 15:18:38,855 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 15:18:38,855 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 15:18:38,855 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 15:18:38,855 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 15:18:38,856 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 15:18:38,858 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 15:18:38,858 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 15:18:40,433 - backprojection.Conf - INFO - nav 1
-2020-07-08 15:18:40,434 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 15:18:40,435 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 15:18:53,679 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 15:20:31,644 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 15:20:31,644 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 15:20:31,644 - posarmctools.posar.Record - INFO - 
+2020-09-08 09:17:11,907 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 09:17:11,907 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 09:17:11,907 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 09:17:11,907 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 09:17:11,910 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 09:17:11,911 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 09:17:11,911 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 09:17:11,912 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 09:17:11,912 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 09:17:11,912 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 09:17:11,914 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 09:17:11,914 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 09:17:13,362 - backprojection.Conf - INFO - nav 1
+2020-09-08 09:17:13,363 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
+2020-09-08 09:17:13,365 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_hanning.npy
+2020-09-08 09:17:27,606 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
+2020-09-08 09:27:29,132 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
+2020-09-08 09:27:29,132 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
+2020-09-08 09:27:29,133 - posarmctools.posar.Record - INFO - 
 
  - RECORD - 2020_06_25_11_57_59
 
-2020-07-08 15:20:31,645 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 15:20:31,645 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 15:20:31,645 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 15:20:31,645 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 15:20:31,648 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 15:20:31,649 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 15:20:31,650 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 15:20:31,650 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 15:20:31,650 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 15:20:31,650 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 15:20:31,652 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 15:20:31,653 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 15:20:33,205 - backprojection.Conf - INFO - nav 1
-2020-07-08 15:20:33,207 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 15:20:33,208 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 15:20:46,355 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 15:22:01,669 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 15:22:01,669 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 15:22:01,669 - posarmctools.posar.Record - INFO - 
-
- - RECORD - 2020_06_25_11_57_59
-
-2020-07-08 15:22:01,670 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 15:22:01,670 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 15:22:01,670 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 15:22:01,671 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 15:22:01,673 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 15:22:01,675 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 15:22:01,675 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 15:22:01,675 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 15:22:01,675 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 15:22:01,676 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 15:22:01,678 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 15:22:01,678 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 15:22:03,241 - backprojection.Conf - INFO - nav 1
-2020-07-08 15:22:03,242 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 15:22:03,244 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 15:22:16,730 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
-2020-07-08 15:35:22,520 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-2
-2020-07-08 15:35:22,520 - backprojection.Conf - INFO - day 2020_06_25, hour 11_57_59
-2020-07-08 15:35:22,520 - posarmctools.posar.Record - INFO - 
-
- - RECORD - 2020_06_25_11_57_59
-
-2020-07-08 15:35:22,521 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
-2020-07-08 15:35:22,521 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
-2020-07-08 15:35:22,521 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
-2020-07-08 15:35:22,521 - posarmctools.posar.Record - INFO - records are contiguous
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - UTC access _____ 2020 7 8 7:54:34
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
-2020-07-08 15:35:22,524 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
-2020-07-08 15:35:22,525 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
-2020-07-08 15:35:22,525 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
-2020-07-08 15:35:22,526 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
-2020-07-08 15:35:22,526 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
-2020-07-08 15:35:22,526 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
-2020-07-08 15:35:22,528 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
-2020-07-08 15:35:22,529 - backprojection.Conf - INFO - projection epsg3948
-2020-07-08 15:35:24,156 - backprojection.Conf - INFO - nav 1
-2020-07-08 15:35:24,157 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]
-2020-07-08 15:35:24,159 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59/Sa_files_0_56_rampUp_None.npy
-2020-07-08 15:35:37,547 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/FOCUSING/2020_06_25_11_57_59 created successfully
+2020-09-08 09:27:29,133 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/OUT/2020_06_25_11_57_59 created successfully
+2020-09-08 09:27:29,133 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59
+2020-09-08 09:27:29,134 - posarmctools.posar.Record - INFO - 57 records found in directory, start = record0.bin, stop = record112.bin
+2020-09-08 09:27:29,134 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-08 09:27:29,138 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-2/2020_06_25/2020_06_25_11_57_59/record0.bin
+2020-09-08 09:27:29,139 - posarmctools.posar.Record - INFO - UTC access _____ 2020 9 4 6:15:53
+2020-09-08 09:27:29,139 - posarmctools.posar.Record - INFO - UTC creation ___ 2020 6 26 7:1:17
+2020-09-08 09:27:29,139 - posarmctools.posar.Record - INFO - UTC modification 2020 6 25 9:58:4 + 0.504
+2020-09-08 09:27:29,139 - posarmctools.posar.Record - INFO - delta = 7194.496, estimated UTCShift = 2
+2020-09-08 09:27:29,139 - posarmctools.posar.Record - INFO - delta between name and modification time = -5.504 s
+2020-09-08 09:27:29,140 - posarmctools.posar.Timestamps - INFO - 2020_06_25_11_57_59 number of timestamps: 58
+2020-09-08 09:27:29,140 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** buffers are not contiguous
+2020-09-08 09:27:29,141 - posarmctools.posar.Timestamps - WARNING - 2020_06_25_11_57_59 *** BUT bufferNumber[56] == 4294967295
+2020-09-08 09:27:29,141 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-08 09:27:29,141 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.140 std 0.511
+2020-09-08 09:27:29,143 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 'c0', 'c1', 'c2', 'c3', 'c4']
+2020-09-08 09:27:29,143 - backprojection.Conf - INFO - projection epsg3948
+2020-09-08 09:27:30,644 - backprojection.Conf - INFO - nav 1
+2020-09-08 09:27:30,646 - backprojection.Conf - INFO - firstFile 0, nBins 57 [auto determination]

@@ -1,0 +1,27 @@
+2020-09-07 09:38:56,319 - backprojection.Conf - INFO - dir_posar /home/pleroy/DATA/PoSAR-X/PIMA-1
+2020-09-07 09:38:56,320 - backprojection.Conf - INFO - day 2019_07_12, hour 14_12_21
+2020-09-07 09:38:56,320 - posarmctools.posar.Record - INFO - 
+
+ - RECORD - 2019_07_12_14_12_21
+
+2020-09-07 09:38:56,320 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-1/2019_07_12/OUT/2019_07_12_14_12_21 created successfully
+2020-09-07 09:38:56,321 - posarmctools.posar.Record - INFO - rec_dir   *** /home/pleroy/DATA/PoSAR-X/PIMA-1/2019_07_12/2019_07_12_14_12_21
+2020-09-07 09:38:56,321 - posarmctools.posar.Record - INFO - 59 records found in directory, start = record0.bin, stop = record116.bin
+2020-09-07 09:38:56,321 - posarmctools.posar.Record - INFO - records are contiguous
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-1/2019_07_12/2019_07_12_14_12_21/record0.bin
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - UTC access _____ 2020 6 18 6:48:17
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - UTC creation ___ 2019 7 15 6:35:55
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - UTC modification 2019 7 12 12:12:28 + 0.601
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - delta = 7192.399, estimated UTCShift = 2
+2020-09-07 09:38:56,324 - posarmctools.posar.Record - INFO - delta between name and modification time = -7.601 s
+2020-09-07 09:38:56,326 - posarmctools.posar.Timestamps - INFO - 2019_07_12_14_12_21 number of timestamps: 59
+2020-09-07 09:38:56,327 - posarmctools.posar.Timestamps - INFO - buffers are contiguous
+2020-09-07 09:38:56,327 - posarmctools.posar.Timestamps - INFO - OK  timestamps are contiguous
+2020-09-07 09:38:56,327 - posarmctools.posar.Timestamps - INFO - min 1000004.0 max 1000006.0 mean 1000005.052 std 0.432
+2020-09-07 09:38:56,328 - posarmctools.posar.Record - INFO - 2019_07_12_14_12_21 number of added events 1
+2020-09-07 09:38:56,331 - backprojection.Conf - INFO - points ['corner', 'h0', 'h1', 'h2', 'h3', 's0', 's1', 's2', 's3', 's4', 's5', 's6', 's7']
+2020-09-07 09:38:56,331 - backprojection.Conf - INFO - projection epsg3948
+2020-09-07 09:38:57,939 - backprojection.Conf - INFO - nav 1
+2020-09-07 09:38:57,941 - backprojection.Conf - INFO - firstFile 0, nBins 59 [auto determination]
+2020-09-07 09:38:57,942 - backprojection.Signal - INFO - load /home/pleroy/DATA/PoSAR-X/PIMA-1/2019_07_12/OUT/2019_07_12_14_12_21/Sa_files_0_58_rampUp_hanning.npy
+2020-09-07 09:39:58,254 - backprojection.Focusing - INFO - /home/pleroy/DATA/PoSAR-X/PIMA-1/2019_07_12/FOCUSING/2019_07_12_14_12_21 created successfully
